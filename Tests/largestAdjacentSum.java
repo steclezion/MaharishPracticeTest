@@ -4,6 +4,16 @@ package com.hawa.practice.Tests;
 /** * Java program to find and print largest Adjacent Sum  of an integer number.
  @author steclezion@gmail.com */
 
+/*Write a function named largestAdjacentSum that iterates through an array computing the sum of
+adjacent elements and returning the largest such sum. You may assume that the array has at least 2
+elements.
+If you are writing in Java or C#, the function signature is
+int largestAdjacentSum(int[ ] a)
+If you are writing in C or C++, the function signature is
+int largestAdjacentSum(int a[ ], int len) where len is the number of elements in a
+
+ */
+
 
 public class largestAdjacentSum {
     public static void main(String[] args) {
